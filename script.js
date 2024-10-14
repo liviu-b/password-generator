@@ -23,8 +23,7 @@ function generate() {
       const pos = Math.floor(Math.random() * dictionary.length);
       password += dictionary[pos];
     }
-  
-    document.querySelector('input[type="text"]').value = password;
+      document.querySelector('input[type="text"]').value = password;
   }
   
   [
