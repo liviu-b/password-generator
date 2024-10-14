@@ -14,3 +14,4 @@ Clone the repository and run the script in your preferred environment.
 git clone https://github.com/liviu-b/password-generator.git
 cd password-generator
 
+
